@@ -1,0 +1,10 @@
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\bin\Debug\OOP - Test.exe.config
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\bin\Debug\OOP - Test.exe
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\bin\Debug\OOP - Test.pdb
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP - Test.csprojAssemblyReference.cache
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP___Test.Form1.resources
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP___Test.Properties.Resources.resources
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP - Test.csproj.GenerateResource.cache
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP - Test.csproj.CoreCompileInputs.cache
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP - Test.exe
+G:\Dokumenty\Csharp\OOP - Test\OOP - Test\obj\Debug\OOP - Test.pdb
